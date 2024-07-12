@@ -17,11 +17,11 @@ Users should be aware of the severe risks associated with this leak. Reusing pas
 The provided links for downloading the file are intended for cybersecurity research purposes only. Use of this file for malicious activities is strictly prohibited and may be illegal. Researchers must ensure they are in compliance with all relevant laws and regulations when using this data.
 
 ## Links
-- [Magnet Link] (magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a)
+- Magnet Link : `magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`
 
 ## How to Use
 To access the leaked passwords using the magnet link provided:
-- Copy the magnet link: magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a
+- Copy the magnet link: `magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`
 - Paste it into your torrent client's "Add URL" or "Add Magnet Link" option.
 
 ## Type
