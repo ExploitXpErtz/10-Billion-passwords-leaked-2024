@@ -18,7 +18,6 @@ The provided links for downloading the file are intended for cybersecurity resea
 
 ## Links
 - [Magnet Link] (magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a)
-- [Tips to Protect Your Online Accounts](#)
 
 ## How to Use
 To access the leaked passwords using the magnet link provided:
