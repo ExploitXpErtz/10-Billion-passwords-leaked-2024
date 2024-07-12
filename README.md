@@ -17,9 +17,13 @@ Users should be aware of the severe risks associated with this leak. Reusing pas
 The provided links for downloading the file are intended for cybersecurity research purposes only. Use of this file for malicious activities is strictly prohibited and may be illegal. Researchers must ensure they are in compliance with all relevant laws and regulations when using this data.
 
 ## Links
-For more information on how to protect yourself and check if your passwords have been compromised, refer to:
-- [Leaked Password Checker](#)
+- [Magnet Link](magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a)
 - [Tips to Protect Your Online Accounts](#)
+
+## How to Use
+To access the leaked passwords using the magnet link provided:
+- Copy the magnet link: magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a
+- Paste it into your torrent client's "Add URL" or "Add Magnet Link" option.
 
 ## Type
 The leaked data consists of plaintext passwords compiled from various data breaches over several years. This includes passwords from both old and recent breaches.
@@ -29,3 +33,6 @@ The RockYou2024 compilation is 50 GB in compressed mode, containing nearly 10 bi
 
 ## Lines
 The dataset includes 9,948,575,739 unique plaintext passwords, compiled from over 4,000 databases spanning more than two decades.
+
+## Credits
+The leak was discovered by dedicated researchers who initially reported on the incident.
