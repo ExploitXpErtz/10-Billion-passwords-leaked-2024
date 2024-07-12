@@ -13,6 +13,9 @@ Researchers warn that attackers can exploit the ten-billion-strong RockYou2024 c
 ## Caution
 Users should be aware of the severe risks associated with this leak. Reusing passwords greatly increases the likelihood of falling victim to credential stuffing attacks, where attackers use the leaked passwords to gain unauthorized access to accounts.
 
+## Disclaimer
+The provided links for downloading the file are intended for cybersecurity research purposes only. Use of this file for malicious activities is strictly prohibited and may be illegal. Researchers must ensure they are in compliance with all relevant laws and regulations when using this data.
+
 ## Links
 For more information on how to protect yourself and check if your passwords have been compromised, refer to:
 - [Leaked Password Checker](#)
@@ -22,7 +25,7 @@ For more information on how to protect yourself and check if your passwords have
 The leaked data consists of plaintext passwords compiled from various data breaches over several years. This includes passwords from both old and recent breaches.
 
 ## Size
-The RockYou2024 compilation is the largest of its kind, containing nearly 10 billion unique passwords. It surpasses previous leaks like RockYou2021, which had 8.4 billion passwords.
+The RockYou2024 compilation is 50 GB in compressed mode, containing nearly 10 billion unique passwords. It surpasses previous leaks like RockYou2021, which had 8.4 billion passwords.
 
 ## Lines
 The dataset includes 9,948,575,739 unique plaintext passwords, compiled from over 4,000 databases spanning more than two decades.
