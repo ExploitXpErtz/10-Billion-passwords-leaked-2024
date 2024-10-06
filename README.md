@@ -17,6 +17,7 @@ Users should be aware of the severe risks associated with this leak. Reusing pas
 The provided links for downloading the file are intended for cybersecurity research purposes only. Use of this file for malicious activities is strictly prohibited and may be illegal. Researchers must ensure they are in compliance with all relevant laws and regulations when using this data.
 
 ## Links
+- ExploitXpErtz link : `https://exploitxpertz.com/collection/leaks/rockyou24/rockyou2024`
 - Magnet Link : `magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a`
 
 ## How to Use
